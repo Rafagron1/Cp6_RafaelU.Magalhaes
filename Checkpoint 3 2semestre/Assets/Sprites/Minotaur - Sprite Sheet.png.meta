@@ -486,10 +486,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1825
-        width: 100
-        height: 95
+        x: 28
+        y: 1856
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -508,10 +508,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_1
       rect:
         serializedVersion: 2
-        x: 100
-        y: 1825
-        width: 100
-        height: 95
+        x: 124
+        y: 1856
+        width: 52
+        height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -530,10 +530,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_2
       rect:
         serializedVersion: 2
-        x: 200
-        y: 1825
-        width: 100
-        height: 95
+        x: 220
+        y: 1856
+        width: 52
+        height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -552,10 +552,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_3
       rect:
         serializedVersion: 2
-        x: 300
-        y: 1825
-        width: 100
-        height: 95
+        x: 316
+        y: 1856
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -574,10 +574,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_4
       rect:
         serializedVersion: 2
-        x: 400
-        y: 1825
-        width: 100
-        height: 95
+        x: 412
+        y: 1856
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -596,10 +596,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1730
-        width: 100
-        height: 95
+        x: 26
+        y: 1762
+        width: 52
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -618,10 +618,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_6
       rect:
         serializedVersion: 2
-        x: 100
-        y: 1730
-        width: 100
-        height: 95
+        x: 121
+        y: 1764
+        width: 52
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -640,10 +640,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_7
       rect:
         serializedVersion: 2
-        x: 200
-        y: 1730
-        width: 100
-        height: 95
+        x: 218
+        y: 1762
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -662,10 +662,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_8
       rect:
         serializedVersion: 2
-        x: 300
-        y: 1730
-        width: 100
-        height: 95
+        x: 315
+        y: 1760
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -684,10 +684,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_9
       rect:
         serializedVersion: 2
-        x: 400
-        y: 1730
-        width: 100
-        height: 95
+        x: 412
+        y: 1762
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -706,10 +706,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_10
       rect:
         serializedVersion: 2
-        x: 500
-        y: 1730
-        width: 100
-        height: 95
+        x: 509
+        y: 1764
+        width: 52
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -728,10 +728,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_11
       rect:
         serializedVersion: 2
-        x: 600
-        y: 1730
-        width: 100
-        height: 95
+        x: 604
+        y: 1762
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -750,10 +750,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_12
       rect:
         serializedVersion: 2
-        x: 700
-        y: 1730
-        width: 100
-        height: 95
+        x: 699
+        y: 1760
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -772,10 +772,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_13
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1635
-        width: 100
-        height: 95
+        x: 28
+        y: 1664
+        width: 52
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -794,10 +794,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_14
       rect:
         serializedVersion: 2
-        x: 100
-        y: 1635
-        width: 100
-        height: 95
+        x: 124
+        y: 1664
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -816,10 +816,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_15
       rect:
         serializedVersion: 2
-        x: 200
-        y: 1635
-        width: 100
-        height: 95
+        x: 220
+        y: 1664
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -838,10 +838,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_16
       rect:
         serializedVersion: 2
-        x: 300
-        y: 1635
-        width: 100
-        height: 95
+        x: 312
+        y: 1664
+        width: 56
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -860,10 +860,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_17
       rect:
         serializedVersion: 2
-        x: 400
-        y: 1635
-        width: 100
-        height: 95
+        x: 406
+        y: 1664
+        width: 58
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -882,10 +882,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_18
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1540
-        width: 100
-        height: 95
+        x: 5
+        y: 1568
+        width: 56
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -904,10 +904,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_19
       rect:
         serializedVersion: 2
-        x: 100
-        y: 1540
-        width: 100
-        height: 95
+        x: 108
+        y: 1562
+        width: 75
+        height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -926,10 +926,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_20
       rect:
         serializedVersion: 2
-        x: 200
-        y: 1540
-        width: 100
-        height: 95
+        x: 206
+        y: 1562
+        width: 71
+        height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -948,10 +948,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_21
       rect:
         serializedVersion: 2
-        x: 300
-        y: 1540
-        width: 100
-        height: 95
+        x: 316
+        y: 1562
+        width: 57
+        height: 63
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -970,10 +970,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_22
       rect:
         serializedVersion: 2
-        x: 400
-        y: 1540
-        width: 100
-        height: 95
+        x: 412
+        y: 1563
+        width: 55
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -992,10 +992,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_23
       rect:
         serializedVersion: 2
-        x: 500
-        y: 1540
-        width: 100
-        height: 95
+        x: 508
+        y: 1563
+        width: 55
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1014,10 +1014,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_24
       rect:
         serializedVersion: 2
-        x: 600
-        y: 1540
-        width: 100
-        height: 95
+        x: 604
+        y: 1563
+        width: 49
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1037,9 +1037,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 700
-        y: 1540
-        width: 100
-        height: 95
+        y: 1568
+        width: 48
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1058,10 +1058,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_26
       rect:
         serializedVersion: 2
-        x: 800
-        y: 1540
-        width: 100
-        height: 95
+        x: 796
+        y: 1568
+        width: 52
+        height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1080,10 +1080,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_27
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1445
-        width: 100
-        height: 95
+        x: 28
+        y: 1472
+        width: 52
+        height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1102,10 +1102,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_28
       rect:
         serializedVersion: 2
-        x: 100
-        y: 1445
-        width: 100
-        height: 95
+        x: 128
+        y: 1472
+        width: 59
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1124,10 +1124,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_29
       rect:
         serializedVersion: 2
-        x: 200
-        y: 1445
-        width: 100
-        height: 95
+        x: 223
+        y: 1472
+        width: 59
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1146,10 +1146,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_30
       rect:
         serializedVersion: 2
-        x: 300
-        y: 1445
-        width: 100
-        height: 95
+        x: 319
+        y: 1472
+        width: 59
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1168,10 +1168,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_31
       rect:
         serializedVersion: 2
-        x: 400
-        y: 1445
-        width: 100
-        height: 95
+        x: 415
+        y: 1472
+        width: 57
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1190,10 +1190,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_32
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1350
-        width: 100
-        height: 95
+        x: 23
+        y: 1376
+        width: 38
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1212,10 +1212,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_33
       rect:
         serializedVersion: 2
-        x: 100
-        y: 1350
-        width: 100
-        height: 95
+        x: 119
+        y: 1376
+        width: 38
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1234,10 +1234,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_34
       rect:
         serializedVersion: 2
-        x: 200
-        y: 1350
-        width: 100
-        height: 95
+        x: 215
+        y: 1376
+        width: 38
+        height: 51
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1256,10 +1256,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_35
       rect:
         serializedVersion: 2
-        x: 300
-        y: 1350
-        width: 100
-        height: 95
+        x: 311
+        y: 1376
+        width: 38
+        height: 54
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1278,10 +1278,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_36
       rect:
         serializedVersion: 2
-        x: 400
-        y: 1350
-        width: 100
-        height: 95
+        x: 407
+        y: 1376
+        width: 38
+        height: 51
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1300,10 +1300,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_37
       rect:
         serializedVersion: 2
-        x: 500
-        y: 1350
-        width: 100
-        height: 95
+        x: 503
+        y: 1376
+        width: 38
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1322,10 +1322,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_38
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1255
-        width: 100
-        height: 95
+        x: 29
+        y: 1280
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1344,10 +1344,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_39
       rect:
         serializedVersion: 2
-        x: 100
-        y: 1255
-        width: 100
-        height: 95
+        x: 126
+        y: 1280
+        width: 54
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1366,10 +1366,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_40
       rect:
         serializedVersion: 2
-        x: 200
-        y: 1255
-        width: 100
-        height: 95
+        x: 222
+        y: 1280
+        width: 54
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1388,10 +1388,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_41
       rect:
         serializedVersion: 2
-        x: 300
-        y: 1255
-        width: 100
-        height: 95
+        x: 298
+        y: 1280
+        width: 68
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1410,10 +1410,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_42
       rect:
         serializedVersion: 2
-        x: 400
-        y: 1255
-        width: 100
-        height: 95
+        x: 384
+        y: 1280
+        width: 48
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1432,10 +1432,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_43
       rect:
         serializedVersion: 2
-        x: 500
-        y: 1255
-        width: 100
-        height: 95
+        x: 498
+        y: 1284
+        width: 9
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1454,10 +1454,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_44
       rect:
         serializedVersion: 2
-        x: 600
-        y: 1255
-        width: 100
-        height: 95
+        x: 503
+        y: 1274
+        width: 68
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1476,10 +1476,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_45
       rect:
         serializedVersion: 2
-        x: 700
-        y: 1255
-        width: 100
-        height: 95
+        x: 607
+        y: 1275
+        width: 55
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1498,10 +1498,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_46
       rect:
         serializedVersion: 2
-        x: 800
-        y: 1255
-        width: 100
-        height: 95
+        x: 703
+        y: 1275
+        width: 46
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1520,10 +1520,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_47
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1160
-        width: 100
-        height: 95
+        x: 799
+        y: 1275
+        width: 46
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1542,10 +1542,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_48
       rect:
         serializedVersion: 2
-        x: 100
-        y: 1160
-        width: 100
-        height: 95
+        x: 28
+        y: 1184
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1564,10 +1564,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_49
       rect:
         serializedVersion: 2
-        x: 200
-        y: 1160
-        width: 100
-        height: 95
+        x: 124
+        y: 1184
+        width: 52
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1586,10 +1586,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_50
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1065
-        width: 100
-        height: 95
+        x: 220
+        y: 1184
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1608,10 +1608,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_51
       rect:
         serializedVersion: 2
-        x: 100
-        y: 1065
-        width: 100
-        height: 95
+        x: 28
+        y: 1088
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1630,10 +1630,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_52
       rect:
         serializedVersion: 2
-        x: 200
-        y: 1065
-        width: 100
-        height: 95
+        x: 124
+        y: 1088
+        width: 52
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1652,10 +1652,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_53
       rect:
         serializedVersion: 2
-        x: 0
-        y: 970
-        width: 100
-        height: 95
+        x: 220
+        y: 1088
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1674,10 +1674,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_54
       rect:
         serializedVersion: 2
-        x: 100
-        y: 970
-        width: 100
-        height: 95
+        x: 28
+        y: 992
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1696,10 +1696,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_55
       rect:
         serializedVersion: 2
-        x: 200
-        y: 970
-        width: 100
-        height: 95
+        x: 125
+        y: 992
+        width: 53
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1718,10 +1718,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_56
       rect:
         serializedVersion: 2
-        x: 300
-        y: 970
-        width: 100
-        height: 95
+        x: 226
+        y: 992
+        width: 54
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1740,10 +1740,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_57
       rect:
         serializedVersion: 2
-        x: 400
-        y: 970
-        width: 100
-        height: 95
+        x: 322
+        y: 991
+        width: 54
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1762,10 +1762,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_58
       rect:
         serializedVersion: 2
-        x: 500
-        y: 970
-        width: 100
-        height: 95
+        x: 418
+        y: 991
+        width: 54
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1784,10 +1784,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_59
       rect:
         serializedVersion: 2
-        x: 0
-        y: 875
-        width: 100
-        height: 95
+        x: 514
+        y: 991
+        width: 54
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1806,10 +1806,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_60
       rect:
         serializedVersion: 2
-        x: 100
-        y: 875
-        width: 100
-        height: 95
+        x: 16
+        y: 896
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1828,10 +1828,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_61
       rect:
         serializedVersion: 2
-        x: 200
-        y: 875
-        width: 100
-        height: 95
+        x: 112
+        y: 896
+        width: 52
+        height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1850,10 +1850,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_62
       rect:
         serializedVersion: 2
-        x: 300
-        y: 875
-        width: 100
-        height: 95
+        x: 208
+        y: 896
+        width: 52
+        height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1872,10 +1872,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_63
       rect:
         serializedVersion: 2
-        x: 400
-        y: 875
-        width: 100
-        height: 95
+        x: 304
+        y: 896
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1894,10 +1894,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_64
       rect:
         serializedVersion: 2
-        x: 0
-        y: 780
-        width: 100
-        height: 95
+        x: 400
+        y: 896
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1916,10 +1916,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_65
       rect:
         serializedVersion: 2
-        x: 100
-        y: 780
-        width: 100
-        height: 95
+        x: 18
+        y: 802
+        width: 52
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1938,10 +1938,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_66
       rect:
         serializedVersion: 2
-        x: 200
-        y: 780
-        width: 100
-        height: 95
+        x: 115
+        y: 804
+        width: 52
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1960,10 +1960,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_67
       rect:
         serializedVersion: 2
-        x: 300
-        y: 780
-        width: 100
-        height: 95
+        x: 210
+        y: 802
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1982,10 +1982,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_68
       rect:
         serializedVersion: 2
-        x: 400
-        y: 780
-        width: 100
-        height: 95
+        x: 305
+        y: 800
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2004,10 +2004,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_69
       rect:
         serializedVersion: 2
-        x: 500
-        y: 780
-        width: 100
-        height: 95
+        x: 400
+        y: 802
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2026,10 +2026,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_70
       rect:
         serializedVersion: 2
-        x: 600
-        y: 780
-        width: 100
-        height: 95
+        x: 495
+        y: 804
+        width: 52
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2048,10 +2048,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_71
       rect:
         serializedVersion: 2
-        x: 700
-        y: 780
-        width: 100
-        height: 95
+        x: 592
+        y: 802
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2070,10 +2070,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_72
       rect:
         serializedVersion: 2
-        x: 0
-        y: 685
-        width: 100
-        height: 95
+        x: 689
+        y: 800
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2092,10 +2092,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_73
       rect:
         serializedVersion: 2
-        x: 100
-        y: 685
-        width: 100
-        height: 95
+        x: 16
+        y: 704
+        width: 52
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2114,10 +2114,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_74
       rect:
         serializedVersion: 2
-        x: 200
-        y: 685
-        width: 100
-        height: 95
+        x: 112
+        y: 704
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2136,10 +2136,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_75
       rect:
         serializedVersion: 2
-        x: 300
-        y: 685
-        width: 100
-        height: 95
+        x: 208
+        y: 704
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2158,10 +2158,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_76
       rect:
         serializedVersion: 2
-        x: 400
-        y: 685
-        width: 100
-        height: 95
+        x: 304
+        y: 704
+        width: 56
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2180,10 +2180,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_77
       rect:
         serializedVersion: 2
-        x: 0
-        y: 590
-        width: 100
-        height: 95
+        x: 400
+        y: 704
+        width: 58
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2202,10 +2202,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_78
       rect:
         serializedVersion: 2
-        x: 100
-        y: 590
-        width: 100
-        height: 95
+        x: 35
+        y: 608
+        width: 56
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2224,10 +2224,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_79
       rect:
         serializedVersion: 2
-        x: 200
-        y: 590
-        width: 100
-        height: 95
+        x: 105
+        y: 602
+        width: 75
+        height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2246,10 +2246,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_80
       rect:
         serializedVersion: 2
-        x: 300
-        y: 590
-        width: 100
-        height: 95
+        x: 203
+        y: 602
+        width: 71
+        height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2268,10 +2268,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_81
       rect:
         serializedVersion: 2
-        x: 400
-        y: 590
-        width: 100
-        height: 95
+        x: 299
+        y: 602
+        width: 57
+        height: 63
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2290,10 +2290,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_82
       rect:
         serializedVersion: 2
-        x: 500
-        y: 590
-        width: 100
-        height: 95
+        x: 397
+        y: 603
+        width: 55
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2312,10 +2312,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_83
       rect:
         serializedVersion: 2
-        x: 600
-        y: 590
-        width: 100
-        height: 95
+        x: 493
+        y: 603
+        width: 55
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2334,10 +2334,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_84
       rect:
         serializedVersion: 2
-        x: 700
-        y: 590
-        width: 100
-        height: 95
+        x: 595
+        y: 603
+        width: 49
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2356,10 +2356,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_85
       rect:
         serializedVersion: 2
-        x: 800
-        y: 590
-        width: 100
-        height: 95
+        x: 692
+        y: 608
+        width: 48
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2378,10 +2378,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_86
       rect:
         serializedVersion: 2
-        x: 0
-        y: 495
-        width: 100
-        height: 95
+        x: 784
+        y: 608
+        width: 52
+        height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2400,10 +2400,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_87
       rect:
         serializedVersion: 2
-        x: 100
-        y: 495
-        width: 100
-        height: 95
+        x: 16
+        y: 512
+        width: 52
+        height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2422,10 +2422,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_88
       rect:
         serializedVersion: 2
-        x: 200
-        y: 495
-        width: 100
-        height: 95
+        x: 101
+        y: 512
+        width: 59
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2444,10 +2444,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_89
       rect:
         serializedVersion: 2
-        x: 300
-        y: 495
-        width: 100
-        height: 95
+        x: 198
+        y: 512
+        width: 59
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2466,10 +2466,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_90
       rect:
         serializedVersion: 2
-        x: 400
-        y: 495
-        width: 100
-        height: 95
+        x: 294
+        y: 512
+        width: 59
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2488,10 +2488,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_91
       rect:
         serializedVersion: 2
-        x: 0
-        y: 400
-        width: 100
-        height: 95
+        x: 392
+        y: 512
+        width: 57
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2510,10 +2510,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_92
       rect:
         serializedVersion: 2
-        x: 100
-        y: 400
-        width: 100
-        height: 95
+        x: 35
+        y: 416
+        width: 38
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2532,10 +2532,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_93
       rect:
         serializedVersion: 2
-        x: 200
-        y: 400
-        width: 100
-        height: 95
+        x: 131
+        y: 416
+        width: 38
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2554,10 +2554,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_94
       rect:
         serializedVersion: 2
-        x: 300
-        y: 400
-        width: 100
-        height: 95
+        x: 227
+        y: 416
+        width: 38
+        height: 51
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2576,10 +2576,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_95
       rect:
         serializedVersion: 2
-        x: 400
-        y: 400
-        width: 100
-        height: 95
+        x: 323
+        y: 416
+        width: 38
+        height: 54
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2598,10 +2598,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_96
       rect:
         serializedVersion: 2
-        x: 500
-        y: 400
-        width: 100
-        height: 95
+        x: 419
+        y: 416
+        width: 38
+        height: 51
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2620,10 +2620,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_97
       rect:
         serializedVersion: 2
-        x: 0
-        y: 305
-        width: 100
-        height: 95
+        x: 515
+        y: 416
+        width: 38
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2642,10 +2642,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_98
       rect:
         serializedVersion: 2
-        x: 100
-        y: 305
-        width: 100
-        height: 95
+        x: 15
+        y: 320
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2664,10 +2664,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_99
       rect:
         serializedVersion: 2
-        x: 200
-        y: 305
-        width: 100
-        height: 95
+        x: 108
+        y: 320
+        width: 54
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2686,10 +2686,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_100
       rect:
         serializedVersion: 2
-        x: 300
-        y: 305
-        width: 100
-        height: 95
+        x: 204
+        y: 320
+        width: 54
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2708,10 +2708,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_101
       rect:
         serializedVersion: 2
-        x: 400
-        y: 305
-        width: 100
-        height: 95
+        x: 306
+        y: 320
+        width: 68
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2730,10 +2730,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_102
       rect:
         serializedVersion: 2
-        x: 500
-        y: 305
-        width: 100
-        height: 95
+        x: 432
+        y: 320
+        width: 48
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2752,10 +2752,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_103
       rect:
         serializedVersion: 2
-        x: 600
-        y: 305
-        width: 100
-        height: 95
+        x: 485
+        y: 314
+        width: 68
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2774,10 +2774,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_104
       rect:
         serializedVersion: 2
-        x: 700
-        y: 305
-        width: 100
-        height: 95
+        x: 549
+        y: 324
+        width: 9
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2796,10 +2796,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_105
       rect:
         serializedVersion: 2
-        x: 800
-        y: 305
-        width: 100
-        height: 95
+        x: 586
+        y: 315
+        width: 55
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2818,10 +2818,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_106
       rect:
         serializedVersion: 2
-        x: 0
-        y: 210
-        width: 100
-        height: 95
+        x: 691
+        y: 315
+        width: 46
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2840,10 +2840,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_107
       rect:
         serializedVersion: 2
-        x: 100
-        y: 210
-        width: 100
-        height: 95
+        x: 787
+        y: 315
+        width: 46
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2862,10 +2862,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_108
       rect:
         serializedVersion: 2
-        x: 200
-        y: 210
-        width: 100
-        height: 95
+        x: 16
+        y: 224
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2884,10 +2884,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_109
       rect:
         serializedVersion: 2
-        x: 0
-        y: 115
-        width: 100
-        height: 95
+        x: 112
+        y: 224
+        width: 52
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2906,10 +2906,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_110
       rect:
         serializedVersion: 2
-        x: 100
-        y: 115
-        width: 100
-        height: 95
+        x: 208
+        y: 224
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2928,10 +2928,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_111
       rect:
         serializedVersion: 2
-        x: 200
-        y: 115
-        width: 100
-        height: 95
+        x: 16
+        y: 128
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2950,10 +2950,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_112
       rect:
         serializedVersion: 2
-        x: 0
-        y: 20
-        width: 100
-        height: 95
+        x: 112
+        y: 128
+        width: 52
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2972,10 +2972,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_113
       rect:
         serializedVersion: 2
-        x: 100
-        y: 20
-        width: 100
-        height: 95
+        x: 208
+        y: 128
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2994,10 +2994,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_114
       rect:
         serializedVersion: 2
-        x: 200
-        y: 20
-        width: 100
-        height: 95
+        x: 16
+        y: 32
+        width: 52
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3016,10 +3016,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_115
       rect:
         serializedVersion: 2
-        x: 300
-        y: 20
-        width: 100
-        height: 95
+        x: 110
+        y: 32
+        width: 53
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3038,10 +3038,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_116
       rect:
         serializedVersion: 2
-        x: 400
-        y: 20
-        width: 100
-        height: 95
+        x: 200
+        y: 32
+        width: 54
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3060,10 +3060,10 @@ TextureImporter:
       name: Minotaur - Sprite Sheet_117
       rect:
         serializedVersion: 2
-        x: 500
-        y: 20
-        width: 100
-        height: 95
+        x: 296
+        y: 31
+        width: 54
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3074,6 +3074,50 @@ TextureImporter:
       bones: []
       spriteID: ad145985a16e4dbc0800000000000000
       internalID: -3759126788117806630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minotaur - Sprite Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 31
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa83b6b5ba49b654daf126590bb2102a
+      internalID: -390445880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minotaur - Sprite Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 31
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98a8ea3f92c02d4a9e97286a246c78b
+      internalID: -1929388146
       vertices: []
       indices: 
       edges: []
@@ -3092,7 +3136,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":95.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Minotaur - Sprite Sheet_0: -2991773290986861209
       Minotaur - Sprite Sheet_1: -3482560379574023985
@@ -3116,6 +3160,8 @@ TextureImporter:
       Minotaur - Sprite Sheet_115: -7575511959065984110
       Minotaur - Sprite Sheet_116: -4286342020335714121
       Minotaur - Sprite Sheet_117: -3759126788117806630
+      Minotaur - Sprite Sheet_118: -390445880
+      Minotaur - Sprite Sheet_119: -1929388146
       Minotaur - Sprite Sheet_12: 4346638377540470341
       Minotaur - Sprite Sheet_13: 1250848107499723120
       Minotaur - Sprite Sheet_14: 1345174075302067266
